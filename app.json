@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.7.5",
-  "code": 10705,
-  "notes": "性能与安全:数据检查改为先比对小版本文件,无更新不再重复下载全量数据(省流量省电);启动缓存提速;修复调试日志可能输出敏感信息的问题,建议尽快更新 / Performance & security update: conditional data fetch, faster startup, sensitive debug logging fixed",
+  "version": "1.7.6",
+  "code": 10706,
+  "notes": "对比页视觉优化:规格标签改为小标题样式,与规格值层级分明、逐组分隔,扫读更清晰 / Comparison page: spec labels restyled as mini-headers for clearer visual hierarchy",
   "size_mb": 4.5,
-  "built": "2026-08-25 12:48",
+  "built": "2026-08-25 15:29",
   "url": "/VLookup.apk"
 }
