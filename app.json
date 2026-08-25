@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.6.1",
-  "code": 10601,
-  "notes": "多产品对比升级:上限 10 台,5 台起横向滑动(工具行不随滑动)、折叠屏/大屏自动放宽并支持展开即时重排;3 台起每项显示排名徽章(1 最优) / Compare up to 10 models: side-scrolling from 5, per-spec rank badges (1 = best), foldable-aware layout",
+  "version": "1.7.0",
+  "code": 10700,
+  "notes": "对比页优化:总结支持收起/展开(3 台起默认收起省空间),多台对比标题改为产品小卡片 / Comparison polish: collapsible summary (collapsed by default for 3+ models), chip-style title cards",
   "size_mb": 4.5,
-  "built": "2026-08-25 11:02",
+  "built": "2026-08-25 11:19",
   "url": "/VLookup.apk"
 }
