@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.7.1",
-  "code": 10701,
-  "notes": "型号内存段(如 12+256)改为名称右下角小角标,列表/详情/对比全站生效,更省空间更醒目 / Memory spec in model names now shows as a small subscript badge",
+  "version": "1.7.2",
+  "code": 10702,
+  "notes": "搜索优化:按相关性排序(型号前缀>词首>品牌>子串),输入 A 时 A 系列排最前不再被子串命中霸屏 / Search now ranks by relevance: prefix > word-start > brand > substring",
   "size_mb": 4.5,
-  "built": "2026-08-25 11:27",
+  "built": "2026-08-25 11:42",
   "url": "/VLookup.apk"
 }
