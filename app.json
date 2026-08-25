@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.7.0",
-  "code": 10700,
-  "notes": "对比页优化:总结支持收起/展开(3 台起默认收起省空间),多台对比标题改为产品小卡片 / Comparison polish: collapsible summary (collapsed by default for 3+ models), chip-style title cards",
+  "version": "1.7.1",
+  "code": 10701,
+  "notes": "型号内存段(如 12+256)改为名称右下角小角标,列表/详情/对比全站生效,更省空间更醒目 / Memory spec in model names now shows as a small subscript badge",
   "size_mb": 4.5,
-  "built": "2026-08-25 11:19",
+  "built": "2026-08-25 11:27",
   "url": "/VLookup.apk"
 }
