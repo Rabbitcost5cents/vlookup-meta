@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.7.2",
-  "code": 10702,
-  "notes": "搜索优化:按相关性排序(型号前缀>词首>品牌>子串),输入 A 时 A 系列排最前不再被子串命中霸屏 / Search now ranks by relevance: prefix > word-start > brand > substring",
+  "version": "1.7.3",
+  "code": 10703,
+  "notes": "适配修复:系统返回键逐级返回(弹层内逐层退出,主页返回则退到后台);Android 15+ 全面屏下状态栏/手势条不再遮挡界面 / Back button now navigates back in-app; status bar no longer overlaps on Android 15+ edge-to-edge",
   "size_mb": 4.5,
-  "built": "2026-08-25 11:42",
+  "built": "2026-08-25 11:56",
   "url": "/VLookup.apk"
 }
