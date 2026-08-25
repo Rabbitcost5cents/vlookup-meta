@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.4.1",
-  "code": 10401,
-  "notes": "新增:vivo 在售机型销售数据(近45天走势/周度/区域/渠道) / New: sales data for active vivo models",
+  "version": "1.5.0",
+  "code": 10500,
+  "notes": "新增多产品对比:最多可同屏对比 4 个型号(对比页「＋添加型号」) / Compare up to 4 models side by side",
   "size_mb": 4.5,
-  "built": "2026-08-24 17:53",
+  "built": "2026-08-25 10:25",
   "url": "/VLookup.apk"
 }
