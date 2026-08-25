@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.8.0",
-  "code": 10800,
+  "version": "1.8.1",
+  "code": 10801,
   "notes": "对比选择器新增推荐维度:价格相近/同期发售/同品牌/全部型号",
   "size_mb": 4.5,
-  "built": "2026-08-25 17:34",
+  "built": "2026-08-25 17:36",
   "url": "/VLookup.apk"
 }
