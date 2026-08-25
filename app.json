@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.5.0",
-  "code": 10500,
-  "notes": "新增多产品对比:最多可同屏对比 4 个型号(对比页「＋添加型号」) / Compare up to 4 models side by side",
+  "version": "1.6.0",
+  "code": 10600,
+  "notes": "多产品对比升级:上限提升到 10 台,5 台起横向滑动、折叠屏/大屏自动放宽;3 台起每项显示排名徽章(1 最优) / Compare up to 10 models: side-scrolling from 5, per-spec rank badges (1 = best)",
   "size_mb": 4.5,
-  "built": "2026-08-25 10:25",
+  "built": "2026-08-25 10:55",
   "url": "/VLookup.apk"
 }
