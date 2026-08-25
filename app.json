@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.7.6",
-  "code": 10706,
-  "notes": "对比页视觉优化:规格标签改为小标题样式,与规格值层级分明、逐组分隔,扫读更清晰 / Comparison page: spec labels restyled as mini-headers for clearer visual hierarchy",
+  "version": "1.7.7",
+  "code": 10707,
+  "notes": "更新云端数据源密钥;请尽快升级,旧版本云端数据源即将停用",
   "size_mb": 4.5,
-  "built": "2026-08-25 15:29",
+  "built": "2026-08-25 17:01",
   "url": "/VLookup.apk"
 }
