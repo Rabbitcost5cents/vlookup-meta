@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.9.9",
-  "code": 10909,
-  "notes": "列表标签固定显示在价格上方并按涨价/降价/新品分色;标签写法统一",
+  "version": "1.10.0",
+  "code": 11000,
+  "notes": "新增按标签筛选(涨价/降价/新品/即将上市等);状态写法统一(Active/EOL/Phase Out/Pre-Order/TBA)",
   "size_mb": 3.4,
-  "built": "2026-09-03 16:41",
+  "built": "2026-09-03 16:53",
   "url": "/VLookup.apk"
 }
