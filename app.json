@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.10.5",
-  "code": 11005,
-  "notes": "列表里的「近期调价」固定显示在独立一行",
+  "version": "1.10.6",
+  "code": 11006,
+  "notes": "状态精简为 Active / EOL / Phase Out 三档,预售、即将上市等改用标签展示;标签统一排序与配色",
   "size_mb": 3.4,
-  "built": "2026-09-21 11:04",
+  "built": "2026-09-21 14:20",
   "url": "/VLookup.apk"
 }
