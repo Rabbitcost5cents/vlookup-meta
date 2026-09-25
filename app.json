@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.10.9",
-  "code": 11009,
-  "notes": "新增网页版:iPhone 用 Safari 打开后添加到主屏幕即可使用,数据与安卓版同步",
+  "version": "1.10.10",
+  "code": 11010,
+  "notes": "筛选栏按钮顺序调整为：状态、标签、价格、排序",
   "size_mb": 3.4,
-  "built": "2026-09-21 14:55",
+  "built": "2026-09-25 11:34",
   "url": "/VLookup.apk"
 }
