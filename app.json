@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.10.12",
-  "code": 11012,
-  "notes": "新增「Back to SRP」标签:促销或降价后恢复原价的机型单独标注;源表新写法 NEW MODEL、TBA 并入新品/即将上市",
+  "version": "1.10.13",
+  "code": 11013,
+  "notes": "Back to SRP 标签改为蓝色,与涨价(红)区分",
   "size_mb": 3.5,
-  "built": "2026-11-16 17:19",
+  "built": "2026-11-16 17:22",
   "url": "/VLookup.apk"
 }
