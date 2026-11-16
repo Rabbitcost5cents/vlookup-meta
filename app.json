@@ -1,9 +1,9 @@
 {
   "available": true,
-  "version": "1.10.11",
-  "code": 11011,
-  "notes": "修复:打开产品详情/对比后滑动弹层,背后的主列表不再跟着滚动",
+  "version": "1.10.12",
+  "code": 11012,
+  "notes": "新增「Back to SRP」标签:促销或降价后恢复原价的机型单独标注;源表新写法 NEW MODEL、TBA 并入新品/即将上市",
   "size_mb": 3.5,
-  "built": "2026-10-08 10:46",
+  "built": "2026-11-16 17:19",
   "url": "/VLookup.apk"
 }
